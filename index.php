@@ -1,14 +1,3 @@
-<?php
-$counter_name = "about_visitors.txt";
-$f = fopen($counter_name,"r");
-$counterVal = fread($f, filesize($counter_name));
-fclose($f);
-$counterVal++;
-$f = fopen($counter_name, "w");
-fwrite($f, $counterVal);
-fclose($f);
-$numVisitors = $counterVal;
-?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -27,7 +16,6 @@ $numVisitors = $counterVal;
       &lt;<a target="_blank" href="https://www.last.fm/user/Julimiro">https://www.last.fm/user/Julimiro</a>&gt;<br>
       &lt;<a target="_blank" href="https://www.youtube.com/@JuliTheFurry">https://www.youtube.com/@JuliTheFurry</a>&gt;<br>
       <br>
-      <?php echo $numVisitors;?> visitors!<br>
       <br>
       <br> 
       Meow
