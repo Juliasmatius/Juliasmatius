@@ -3,6 +3,14 @@
   <head>
     <title>cat README.md</title>
     <link rel="stylesheet" href="style.css">
+    <meta content="cat /home/juli/about_me/README.md" property="og:title" />
+    <meta content="MEOW MEOW MEOW MEOW" property="og:description" />
+    <meta content="#fa20b1" data-react-helmet="true" name="theme-color"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="twitter:site" content="https://about.julimiro.eu" />
+    <meta name="twitter:title" content="cat /home/juli/about_me/README.md" />
+    <meta name="twitter:description" content="MEOW MEOW MEOW MEOW" />
   </head>
   <body>
     <div class="main">
