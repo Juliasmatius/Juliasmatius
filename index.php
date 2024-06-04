@@ -1,5 +1,5 @@
 <?php
-$counter_name = "/root/about_visitors.txt";
+$counter_name = "about_visitors.txt";
 if (!file_exists($counter_name)) {
   $f = fopen($counter_name, "w");
   fwrite($f,"0");
