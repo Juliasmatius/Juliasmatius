@@ -23,6 +23,7 @@
       &lt;<a target="_blank" href="https://eepykitty.lol/@juli">https://eepykitty.lol/@juli</a>&gt;<br>
       &lt;<a target="_blank" href="https://www.last.fm/user/Julimiro">https://www.last.fm/user/Julimiro</a>&gt;<br>
       &lt;<a target="_blank" href="https://www.youtube.com/@JuliTheFurry">https://www.youtube.com/@JuliTheFurry</a>&gt;<br>
+      &lt;<a target="_blank" href="https://lemmy.blahaj.zone/u/Juli">https://lemmy.blahaj.zone/u/Juli</a>&gt;<br>
       <br>
       <br>
       <br> 
